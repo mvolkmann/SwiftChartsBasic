@@ -11,6 +11,7 @@
 		1A713EA128F996E000AEA66B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A713EA028F996E000AEA66B /* ContentView.swift */; };
 		1A713EA328F996E100AEA66B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A713EA228F996E100AEA66B /* Assets.xcassets */; };
 		1A713EA628F996E100AEA66B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A713EA528F996E100AEA66B /* Preview Assets.xcassets */; };
+		1A713EAD28F9A1C600AEA66B /* ArrayExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A713EAC28F9A1C600AEA66B /* ArrayExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1A713EA028F996E000AEA66B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1A713EA228F996E100AEA66B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A713EA528F996E100AEA66B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1A713EAC28F9A1C600AEA66B /* ArrayExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1A713E9E28F996E000AEA66B /* SwiftChartsBasicApp.swift */,
 				1A713EA028F996E000AEA66B /* ContentView.swift */,
+				1A713EAC28F9A1C600AEA66B /* ArrayExtension.swift */,
 				1A713EA228F996E100AEA66B /* Assets.xcassets */,
 				1A713EA428F996E100AEA66B /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A713EAD28F9A1C600AEA66B /* ArrayExtension.swift in Sources */,
 				1A713EA128F996E000AEA66B /* ContentView.swift in Sources */,
 				1A713E9F28F996E000AEA66B /* SwiftChartsBasicApp.swift in Sources */,
 			);
